@@ -1,0 +1,3 @@
+.MuiDataGrid-root .MuiDataGrid-cell {
+  word-wrap: break-word !important;
+}
